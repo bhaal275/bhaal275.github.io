@@ -1,0 +1,24 @@
+{
+  "name": "import-io",
+  "description": "Lightweight client for accessing import.io",
+  "version": "2.0.0",
+  "author": "Import.io Developers <dev@import.io>",
+  "main": "importio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/import-io/client-js-mini.git"
+  },
+  "keywords": [
+    "import.io"
+  ],
+  "license": "Apache-2.0",
+  "jspm": {
+    "main": "importio",
+    "format": "global"
+  },
+  "format": "global",
+  "dependencies": {
+    "xmlhttprequest": "1.6.x",
+    "cookiejar": "1.3.x"
+  }
+}

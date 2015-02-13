@@ -1,0 +1,1 @@
+module.exports = require("github:import-io/client-js-mini@2.0.0/importio");
