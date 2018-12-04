@@ -4,8 +4,8 @@
   "version": "2.0.0",
   "author": "Import.io Developers <dev@import.io>",
   "dependencies": {
-    "xmlhttprequest": "1.6.x",
-    "cookiejar": "1.3.x"
+    "xmlhttprequest": "~1.8.0",
+    "cookiejar": "~2.1.2"
   },
   "main": "importio.js",
   "repository": {
